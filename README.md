@@ -1,4 +1,12 @@
-# Supermarket
+
+Scope:
+There is lot of confusion in a supermarket, this code stream lines the process and makes
+things easier for both the seller and the buyer. The seller can access the records of each
+individual customer, the goods purchased by them and the total bills. It is also convenient for the
+seller to add new products as well as make changes to the existing inventory. Profits/ losses can
+be viewed as well.
+
+Explaination:
 In this supermarket design MySql is used as a database. There is a main seller table that is
 created in the beginning itself. At the starting the user is asked whether he is buyer or seller. If
 seller he can add products to inventory, see products, see profits/losses, see each customer's
